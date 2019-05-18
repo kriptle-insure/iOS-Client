@@ -1,8 +1,5 @@
-<img src=resources/cover_img.png>
-
 # Kriptle Wallet - A Biometric wallet for secure transactions 
 
-[<img src=resources/app-store-badge.svg>](https://itunes.apple.com/us/app/wei-wallet/id1376979142)
 
 ## Getting Started
 
