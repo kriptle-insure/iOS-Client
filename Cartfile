@@ -1,0 +1,11 @@
+github "realm/realm-cocoa"
+github "pinterest/PINCache"
+github "ishkawa/APIKit"
+github "Swinject/Swinject"
+github "ReactiveX/RxSwift"
+github "D-Technologies/EthereumKit"
+github "kishikawakatsumi/KeychainAccess"
+github "SVProgressHUD/SVProgressHUD"
+github "Quick/Quick"
+github "Quick/Nimble"
+

@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  Wei
+
+  Created by omatty198 on 2018/06/15.
+  Copyright © 2018年 yz. All rights reserved.
+*/
+
+// MARK:- Error
+"Error.Title.NoConnection" = "通信ができません";
+"Error.Title.SystemError" = "システムエラーです";
+"Error.Title.Unexpected" = "予期せぬエラーが発生しました";
+"Error.Ether.FailedToConvert" = "値の取得に失敗しました。";
+
+"Error.Message.NoConnection" = "電波の良い場所で再度お試しください";
+"Error.Message.SystemError" = "時間を空けて再度お試しください";
+"Error.Message.Unexpected" = "一度アプリを再起動してください";
+
+// MARK: - Transaction History and Latest Transaction
+"Transaction.WatingForReceive" = "受け取り中";
+"Transaction.WaitingForSend" = "送金中";
+"Transaction.Received" = "受け取り済み";
+"Transaction.Sent" = "送金済み";
+
+// MARK: - Receive
+"Receive.ShareQR" = "QRコードを共有する";
+
+// MARK: - Send View Pager
+"Page.QRCode" = "QRを読み取る";
+"Page.CopyAddress" = "アドレスコピー";
+
+// MARK: - SelectAddressByQR
+"SelectAddress.Warning.Text" = "相手のQRコードを読み取るか、\nアドレスを入力してください";
+
+// MARK: - Suggest Backup
+"SuggestBackup.Message" = "バックアップを取ることであなたの保有しているイーサリアムは復元することができます";
+
+// MARK: - Backup
+"Backup.Message" = "12個の単語の並びがお客様のバックアップキーです。順番通りに記録して大事に保管してください。";
+
+// MARK: - Restore Wallet
+"RestoreWallet.Message" = "バックアップで記憶した12個の単語の並びを順番に入力してください。";
+
+// MARK: - Create Wallet
+"CreateWallet.Message" = "Wei Wallet(ウェイウォレット)は\nすべての人のための、もっともシンプルな\nイーサリアムウォレットです。";
+
+// MARK: - Common
+"Common.Cancel" = "キャンセル";
+"Common.Close" = "閉じる";
+"Common.Sent" = "送金完了";
+"Common.SendFailed" = "送金失敗";
+"Common.CameraAccess.Title" = "“WeiWallet”がカメラへのアクセスを求めています";
+"Common.CameraAccess.Description" = "これによりQRコードを撮影してアドレスを読み込むことができます";
+"Common.CameraAccess.Cancel" = "許可しない";
+"Common.USD" = "アメリカドル";
+"Common.JPY" = "日本円";
+"Common.USD.Short" = "ドル";
+"Common.JPY.Short" = "円";
+"Common.ETH" = "イーサリアム";
+"Common.Setting" = "設定";
+"Common.Wallet" = "ウォレット";
+"Common.Browser" = "ブラウザ";
+
+// MARK: - Tutorial
+"Tutorial.First.Title" = "ようこそWei Walletへ！";
+"Tutorial.Second.Title" = "スムーズな受取と送金";
+"Tutorial.Third.Title" = "Wei Walletは安全です";
+
+"Tutorial.First.Description" = "あなたのウォレットが作成されました。";
+"Tutorial.Second.Description" = "受取や送金は素早く完了します。";
+"Tutorial.Third.Description" = "バックアップを取ることでウォレット内のイーサリアムはいつでも復元することができます。";
+
+// MARK: - Alert
+"Alert.Backup.Title" = "バックアップキーを大切に保管してください";
+"Alert.Backup.Message" = "復元する際に必要になります。\n無くさないように気をつけてください。";
+"Alert.SelectAddressByQR.InvalidAddress.Title" = "アドレスが間違っています";
+"Alert.SelectAddressByQR.InvalidAddress.Message" = "QRコードを確認して再度お試しください。";
+"Alert.SwitchNetwork" = "ネットワーク変更後にアプリが再起動します";

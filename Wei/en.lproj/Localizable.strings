@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Wei
+
+  Created by omatty198 on 2018/06/15.
+  Copyright © 2018年 yz. All rights reserved.
+*/
+
+// MARK:- Error
+"Error.Title.NoConnection" = "Bad Connection :(";
+"Error.Title.SystemError" = "System Error";
+"Error.Title.Unexpected" = "Something went wrong :(";
+"Error.Ether.FailedToConvert" = "Failed to fetch value";
+
+"Error.Message.NoConnection" = "Please try again later";
+"Error.Message.SystemError" = "Please try again later";
+"Error.Message.Unexpected" = "Please try again later";
+
+// MARK: - Transaction History and Latest Transaction
+"Transaction.WatingForReceive" = "Receiving";
+"Transaction.WaitingForSend" = "Sending";
+"Transaction.Received" = "Received";
+"Transaction.Sent" = "Sent";
+
+// MARK: - Receive
+"Receive.ShareQR" = "Share QR code";
+
+// MARK: - Send View Pager
+"Page.QRCode" = "Scan QR";
+"Page.CopyAddress" = "Paste Address";
+
+// MARK: - SelectAddressByQR
+"SelectAddress.Warning.Text" = "Scan a QR code,\nor paste an address";
+
+// MARK: - Suggest Backup
+"SuggestBackup.Message" = "You can recover your wallet anytime anywhere by backing it up";
+
+// MARK: - Backup
+"Backup.Message" = "Following is a full list of your back up words. Please make sure to kepp these 12 words in order.";
+
+// MARK: - Restore Wallet
+"RestoreWallet.Message" = "Please enter the order of the 12 words memorized by backup in order.";
+
+// MARK: - Create Wallet
+"CreateWallet.Message" = "Wei Wallet is the simplest ethereum wallet for everyone.";
+
+// MARK: - Common
+"Common.Cancel" = "Cancel";
+"Common.Close" = "Close";
+"Common.Sent" = "Sent";
+"Common.SendFailed" = "Failed";
+"Common.CameraAccess.Title" = "“WeiWallet” is requesting a camera access";
+"Common.CameraAccess.Description" = "You can scan QR codes by allowing";
+"Common.CameraAccess.Cancel" = "Reject";
+"Common.USD" = "US Dollar";
+"Common.JPY" = "Japanese Yen";
+"Common.USD.Short" = "USD";
+"Common.JPY.Short" = "JPY";
+"Common.ETH" = "Ethereum";
+"Common.Setting" = "Setting";
+"Common.Wallet" = "Wallet";
+"Common.Browser" = "Browser";
+
+// MARK: - Tutorial
+"Tutorial.First.Title" = "Welcome to Wei Wallet！";
+"Tutorial.Second.Title" = "Easy to send and receive";
+"Tutorial.Third.Title" = "Wei Wallet, very safe!";
+
+"Tutorial.First.Description" = "Your wallet has been created.";
+"Tutorial.Second.Description" = "You can send and receive easily.";
+"Tutorial.Third.Description" = "You can restore your wallet anytime by backing up your wallet.";
+
+// MARK: - Alert
+"Alert.Backup.Title" = "Keep backup words safe!";
+"Alert.Backup.Message" = "You will need them when you recover. \nBe carefull not to lose them";
+"Alert.SelectAddressByQR.InvalidAddress.Title" = "Invalid Address";
+"Alert.SelectAddressByQR.InvalidAddress.Message" = "Try again with a different QR code";
+"Alert.SwitchNetwork" = "App will restart after switching a network";
+
